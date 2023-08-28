@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen
+- <h1 align="center">Hi 👋, I'm Nguyen
 - 👀 I’m interested in myself 
 - 🌱 I’m currently learning DA
 - 💞️ I’m looking to collaborate on bigbig project ^^ 
